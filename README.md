@@ -7,6 +7,7 @@
 ## 系统增强
 
 * [MacType](https://www.mactype.net/) - 增强Windows字体渲染
+* Seer - 仿Mac预览工具
 
 ## 小工具
 
