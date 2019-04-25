@@ -2,7 +2,9 @@
 
 好用的软件总结
 
+## 生活使用
 
+* [SnapTimer](https://dan.hersam.com/software/snaptimer/) - 定时提醒
 
 ## 系统增强
 
