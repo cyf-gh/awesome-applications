@@ -10,6 +10,8 @@
 
 * [MacType](https://www.mactype.net/) - 增强Windows字体渲染
 * Seer - 仿Mac预览工具
+* [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases) - 性能监视器
+* [SwitchHosts](https://github.com/oldj/SwitchHosts/releases) - 好用的host管理软件
 
 ## 小工具
 
